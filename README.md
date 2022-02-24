@@ -3,6 +3,8 @@
 
 - ✔ 
 - ✔
+- ✔
+- ✔
 - ✉ E-mail para contato: 
 
 <div align="center">
@@ -14,7 +16,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 </div>
   <br>
 <div> 
