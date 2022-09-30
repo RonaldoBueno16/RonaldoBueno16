@@ -1,11 +1,9 @@
 
 ##  Ronaldo Bueno 
 
-- ✔ 
-- ✔
-- ✔
-- ✔
-- ✉ E-mail para contato: Ronaldobueno2002@gmail.com
+- ✔ Desenvolvedor FullStack
+- ✔ Linguagens / Frameworks: JS/TS, NodeJS, C#, NestJS, Dart, D++, React, React Native
+- ✉ E-mail para contato: ronaldobueno2002@gmail.com
 
 <div align="center">
   <a href="https://github.com/RonaldoBueno16">
